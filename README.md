@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to **design and model data** related to air quality measurement. It focuses on analyzing various airborne pollutants such as Nitrogen Monoxide (NO), Nitrogen Dioxide (NO2), and particulate matter (also called particle pollution), which are key contributors to overall air quality.
+This project aims to **design and model data** related to air quality measurement. It focuses on modeling various airborne pollutants such as Nitrogen Monoxide (NO), Nitrogen Dioxide (NO2), and particulate matter (also called particle pollution), which are key contributors to overall air quality, using MSQL database.
 
 For instance, NO2 is measured using micrograms in each cubic meter of air (㎍/m3). A microgram (㎍) is one millionth of a gram. A concentration of 1 ㎍/m3 means that one cubic meter of air contains one microgram of pollutant.
 
@@ -90,7 +90,7 @@ The schema for the dataset is given below:
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone <https://github.com/scottsam/air_quality_model.git>
    ```
 2. Navigate to the project directory:
    ```sh
