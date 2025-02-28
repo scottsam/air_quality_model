@@ -132,6 +132,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+raw_data/Air_Quality_Continuous.csv
+clean_data/cleaned.csv
+clean_data/cropped.csv
+.cropped.zip
 
 # Spyder project settings
 .spyderproject

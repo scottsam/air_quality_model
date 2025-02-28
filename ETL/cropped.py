@@ -45,7 +45,7 @@ Load the required datasets for preprocessing
 
 # load air_quality raw data
 air_df = pd.read_csv('../raw_data/Air_Quality_Continuous.csv')
-air_df = air_df.copy()
+air_df = air_df.copy().round(2)
 
 
 
